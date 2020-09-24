@@ -1,0 +1,10 @@
+chr1	knownGene	transcript	11874	14409	.	+	.	gene_id "test1"; 
+chr1	knownGene	transcript	11874	14409	.	+	.	gene_id "test2";
+chr1	knownGene	transcript	15099	15800	.	+	.	gene_id "test3";
+chr1	knownGene	transcript	16000	16777	.	+	.	gene_id "test4";
+chr1	knownGene	transcript	16500	17500	.	+	.	gene_id "test5";
+chr1	knownGene	transcript	17500	18000	.	+	.	gene_id "test6";
+chr2	knownGene	transcript	17500	18000	.	+	.	gene_id "test7";
+chr2	knownGene	transcript	19999	21000	.	+	.	gene_id "test8";
+chr2	knownGene	transcript	20888	21555	.	+	.	gene_id "test9";
+chr2	knownGene	transcript	22222	23444	.	+	.	gene_id "test10";
